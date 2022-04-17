@@ -3,7 +3,7 @@ const data = {
     {
      id:1,
      name: 'Prada',
-     price: 110,
+     price: 89,
      image: 'https://fimgs.net/mdimg/perfume/375x500.52383.jpg',
    },
    {
